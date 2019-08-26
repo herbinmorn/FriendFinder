@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "(a dating app)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "None",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbinmorn/FriendFinder.git"
+  },
+  "keywords": [
+    "dating",
+    "app"
+  ],
+  "author": "xiaoquan zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herbinmorn/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/herbinmorn/FriendFinder#readme"
+}
